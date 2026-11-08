@@ -15,7 +15,11 @@ jobs:
           python-version: '3.12'
       - name: Collect latest headlines
         run: python scripts/update.py
-      - name: Install PDF generator\n        run: python -m pip install reportlab==4.4.4\n      - name: Build downloadable newspaper PDFs\n        run: python scripts/generate_pdf.py\n      - name: Commit dated editions
+      - name: Install PDF generator
+        run: python -m pip install reportlab==4.4.4
+      - name: Build downloadable newspaper PDFs
+        run: python scripts/generate_pdf.py
+      - name: Commit dated editions
         run: |
           git config user.name 'box-signal-news-bot'
           git config user.email 'box-signal-news-bot@users.noreply.github.com'

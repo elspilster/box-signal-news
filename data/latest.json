@@ -1,46 +1,334 @@
 {
   "date": "2026-11-08",
-  "updated": "2026-11-08T17:55:34.996177+00:00",
+  "updated": "2026-11-08T22:02:11.641702+00:00",
   "stories": [
     {
-      "title": "The FA Cup",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Jason Mohammad presents highlights from the first round of the FA Cup.",
+      "title": "Bundesliga",
+      "url": "https://www.bbc.co.uk/iplayer/episode/l00591pp?at_medium=RSS&at_campaign=rss",
+      "summary": "Watch highlights from matchday nine in the Bundesliga.",
       "source": "BBC Sport",
       "category": "Sport",
-      "published": "2026-11-08T18:41:30+00:00"
+      "published": "2026-11-08T21:45:31+00:00"
     },
     {
-      "title": "Substitute Olme gives Man Utd deserved win over Aston Villa",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c699ze5074n2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Julia Zigiotti Olme comes off the bench to score the only goal of the game, as Manchester United defeat Aston Villa to move up to fourth in the WSL table.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-08T17:47:38+00:00"
-    },
-    {
-      "title": "NFL week nine: Jets v Chiefs, Rams v Commanders, Broncos v Panthers and more – updates",
+      "title": "NFL week nine: Chiefs thrash Jets, Rams beat Commanders and Broncos survive wild finish – as it happened",
       "url": "https://www.theguardian.com/sport/live/2026/nov/08/nfl-week-nine-jets-v-chiefs-rams-v-commanders-broncos-v-panthers-and-more-updates",
-      "summary": "Bengals joint-top of AFC North with 34-17 win in Madrid What do the midterms mean for the NFL? | Email Graham The Broncos are in Panthers country looking for a fifth successive win as they keep finding a way with their u",
+      "summary": "Bengals joint-top of AFC North with 34-17 win in Madrid Myles Garrett returns in Rams win with three sacks Broncos 0-0 Panthers 14:56, 1st quarter Here we go! Carolina kick it away to Denver. The Broncos run it back to t",
       "source": "The Guardian",
       "category": "Sport",
-      "published": "2026-11-08T17:47:37+00:00"
+      "published": "2026-11-08T21:38:42+00:00"
     },
     {
-      "title": "Manchester United v Aston Villa: Premier League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live",
-      "summary": "⚽️ Premier League updates from 4.30pm GMT ⚽️ Jonathan Wilson: There are few reasons for Emery to leave Villa for United ⚽️ Today’s results | Mail Tim Sunderland have clung on to beat Chelsea 1-0, which is a great result ",
+      "title": "Woeful Wallabies sink to new Twickenham low with no set-piece and no swagger | Gerard Meagher",
+      "url": "https://www.theguardian.com/sport/2026/nov/08/australia-wallabies-england-twickenham-nations-championship-rugby-union",
+      "summary": "Australia continue to struggle to find identity and a top-class fly-half a year before they host the World Cup On the shivering Twickenham concourses shortly after full time, one well-oiled Australia supporter took it up",
       "source": "The Guardian",
       "category": "Sport",
-      "published": "2026-11-08T17:47:01+00:00"
+      "published": "2026-11-08T21:30:04+00:00"
     },
     {
-      "title": "São Paulo Grand Prix: Formula One 2026 – live",
-      "url": "https://www.theguardian.com/sport/live/2026/nov/08/sao-paulo-f1-grand-prix-live-updates",
-      "summary": "️ Updates from Interlagos (race due to start 5pm GMT) ️ Email Daniel | Sign up for The Recap We’ve got dancers in the main straight, rain coming down. I’d not be shocked if we see some incidents today – let’s hope everyo",
+      "title": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
+      "summary": "Thredbo, Perisher and Mount Hotham all recorded falls, along with Kunanyi/Mount Wellington in Tasmania Get our breaking news email , free app or daily news podcast Snow blanketed parts of NSW, Victoria and Tasmania acros",
+      "source": "The Guardian",
+      "category": "World",
+      "published": "2026-11-08T21:25:10+00:00"
+    },
+    {
+      "title": "Dalot’s muddled performances are just another symptom of Old Trafford chaos | Will Unwin",
+      "url": "https://www.theguardian.com/football/2026/nov/08/diogo-dalot-manchester-united-old-trafford-aston-villa",
+      "summary": "The stand-in left-back has become a pantomime villain but United fans are understandably struggling to focus their ire Sporting success is, supposedly, a nigh-on irrelevance to Manchester United’s global brand. The money",
       "source": "The Guardian",
       "category": "Sport",
-      "published": "2026-11-08T17:47:00+00:00"
+      "published": "2026-11-08T21:24:44+00:00"
+    },
+    {
+      "title": "Two police officers hailed as heroes for confronting Kraków gunman",
+      "url": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
+      "summary": "Jakub Kulik critically injured and Artur Morański also wounded after actions that ‘prevented further casualties’ Two Polish police officers who were injured as they pursued and detained the gunman in Kraków on Saturday h",
+      "source": "The Guardian",
+      "category": "World",
+      "published": "2026-11-08T21:11:40+00:00"
+    },
+    {
+      "title": "Villa's Kamara on Chelsea watchlist - Monday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8qlnqggwge0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Aston Villa midfielder Boubacar Kamara is on Chelsea's watchlist, Manchester United could make an offer for Nottingham Forest's Murillo, plus more.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-08T21:08:44+00:00"
+    },
+    {
+      "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+      "summary": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and ",
+      "source": "The Guardian",
+      "category": "World",
+      "published": "2026-11-08T21:00:58+00:00"
+    },
+    {
+      "title": "Palace consider replacing Sage, with Frank among contenders",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c623dpeey3e4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Crystal Palace manager Pierre Sage is in serious danger of losing his job, with Thomas Frank among the contenders to replace him.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-08T20:49:40+00:00"
+    },
+    {
+      "title": "Steve Borthwick’s England channel their rage to resemble finished article | Andy Bull",
+      "url": "https://www.theguardian.com/sport/2026/nov/08/steve-borthwick-england-australia-nations-championship-twickenham-rugby-union",
+      "summary": "With his team rampant in their demolition of Australia, the head coach’s work seems to be paying dividends So this is what they have been building behind Twickenham’s big black gates. After all these weeks in which Engla",
+      "source": "The Guardian",
+      "category": "Sport",
+      "published": "2026-11-08T20:45:49+00:00"
+    },
+    {
+      "title": "Who has made Troy's Premier League team of the week?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw98z7vdg546o?at_medium=RSS&at_campaign=rss",
+      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-08T20:18:01+00:00"
+    },
+    {
+      "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation zon",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-08T20:01:16+00:00"
+    },
+    {
+      "title": "Brighton breeze past 10-man Brentford to move up to second",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss",
+      "summary": "Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-08T20:00:21+00:00"
+    },
+    {
+      "title": "Bournemouth beat Ipswich to extend winning streak",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-08T19:59:53+00:00"
+    },
+    {
+      "title": "Liverpool dispatch Palace to pile pressure on Sage",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5djv1mn7gj8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-08T19:58:46+00:00"
+    },
+    {
+      "title": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-08T19:58:31+00:00"
+    },
+    {
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-08T19:58:02+00:00"
+    },
+    {
+      "title": "Feyi-Waboso burns bright as England energy endorses Borthwick",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c620r5dp51e0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Immanuel Feyi-Waboso's blistering first half display provides England fans with a glimpse of what could be in a much-needed statement of faith in coach Steve Borthwick.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-08T19:52:48+00:00"
+    },
+    {
+      "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&at_campaign=rss",
+      "summary": "After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-08T19:24:36+00:00"
+    },
+    {
+      "title": "Norris wins gripping race after Antonelli and Russell errors",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
+      "summary": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-08T19:13:53+00:00"
+    },
+    {
+      "title": "Man Utd making it 'hard on ourselves' - Carrick",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Manchester United head coach Michael Carrick admits his side \"made it hard on themselves\" after they twice came back from two goals down to earn a 4-4 draw at home to Aston Villa.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-08T19:13:46+00:00"
+    },
+    {
+      "title": "Dominant Lando Norris powers to victory in São Paulo F1 Grand Prix",
+      "url": "https://www.theguardian.com/sport/2026/nov/08/lando-norris-wins-f1-sao-paulo-grand-prix-max-verstappen-kimi-antonelli-lewis-hamilton-mercedes",
+      "summary": "Mercedes wrap up constructors’ championship Red Bull’s Max Verstappen surges to second place Lando Norris delivered a masterclass for victory at the São Paulo Grand Prix, taking the flag at a ­meeting marked by a series ",
+      "source": "The Guardian",
+      "category": "Sport",
+      "published": "2026-11-08T19:12:32+00:00"
+    },
+    {
+      "title": "Leeds condemn racist abuse of Bogle after Tel incident",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck5yn1zzyr2jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Leeds United condemn the \"disgusting\" online racist abuse directed towards defender Jayden Bogle following Saturday's 1-0 win against Tottenham.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-08T19:12:01+00:00"
+    },
+    {
+      "title": "Russell Brand case must be wake-up call to protect women in media, Lisa Nandy says",
+      "url": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
+      "summary": "Culture secretary says there is still a problem with exploitation and abuse in the industry and public life The culture secretary, Lisa Nandy, has said there is still a problem with exploitation and abuse in the media in",
+      "source": "The Guardian",
+      "category": "UK",
+      "published": "2026-11-08T19:05:04+00:00"
+    },
+    {
+      "title": "Emotion gets better of Samoa as Australia begin to resemble their old selves | Angus Fontaine",
+      "url": "https://www.theguardian.com/sport/blog/2026/nov/09/australia-kangaroos-mens-rugby-league-world-cup-semi-final",
+      "summary": "The Kangaroos hit form in their semi-final win over Samoa, who arrived in a blaze of Pasifika passion but exited after being outplayed in Sydney Although the hopes of Samoan fans were washed away like tears in Sydney’s r",
+      "source": "The Guardian",
+      "category": "Sport",
+      "published": "2026-11-08T19:00:47+00:00"
+    },
+    {
+      "title": "Secondary schools told to stop teaching GCSEs before Year 10",
+      "url": "https://www.bbc.co.uk/news/articles/c680z89dk827o?at_medium=RSS&at_campaign=rss",
+      "summary": "The government says pupils in Year 7 to 9 should have \"richer, more engaging\" learning than preparing for GCSEs.",
+      "source": "BBC News",
+      "category": "UK",
+      "published": "2026-11-08T19:00:32+00:00"
+    },
+    {
+      "title": "Seventh-tier Wimborne knock out League Two Crawley in FA Cup upset",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Seventh-tier Wimborne Town beat League Two Crawley in a huge FA Cup upset, to reach round two of the competition for the first time in their history.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-08T18:56:55+00:00"
+    },
+    {
+      "title": "Dorgu rescues point for Manchester United in eight-goal thriller against Aston Villa",
+      "url": "https://www.theguardian.com/football/2026/nov/08/manchester-united-aston-villa-premier-league-match-report",
+      "summary": "Does this late, late comeback draw keep Michael Carrick in his job? He urged United to back up their breathless Roma comeback victory on Tuesday by building momentum and they did, kind of, by avoiding defeat. Patrick Dor",
+      "source": "The Guardian",
+      "category": "Sport",
+      "published": "2026-11-08T18:54:23+00:00"
+    },
+    {
+      "title": "Dorgu makes dramatic impact - Man Utd v Aston Villa ratings",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo?at_medium=RSS&at_campaign=rss",
+      "summary": "Man Utd fight back from two goals down twice in 4-4 draw with Aston Villa - but who did well and who didn't in player ratings?",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-08T18:46:45+00:00"
+    },
+    {
+      "title": "Riot breaks out at influencer boxing event attended by Tommy Robinson in Ireland",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/08/riot-influencer-boxing-event-attended-tommy-robinson-ireland",
+      "summary": "Two people arrested after Robinson’s presence inflames tensions in scenes witnessed by many on social media Two people were arrested at an influencer boxing event that descended into a riot in Ireland after the presence ",
+      "source": "The Guardian",
+      "category": "UK",
+      "published": "2026-11-08T18:33:34+00:00"
+    },
+    {
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-08T18:22:53+00:00"
+    },
+    {
+      "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-08T18:20:56+00:00"
+    },
+    {
+      "title": "King leads solemn Remembrance Sunday service at Cenotaph",
+      "url": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.",
+      "source": "BBC News",
+      "category": "UK",
+      "published": "2026-11-08T18:20:53+00:00"
+    },
+    {
+      "title": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
+      "url": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
+      "summary": "Culture secretary pushes back against talk of revisiting Brexit but says closer ties would fulfil referendum promises One of Andy Burnham’s cabinet ministers has said she wants to avoid “circular arguments” about whether",
+      "source": "The Guardian",
+      "category": "World",
+      "published": "2026-11-08T18:20:06+00:00"
+    },
+    {
+      "title": "Teaching GCSE topics younger risks turning schools into ‘early exam factories’, Powell warns",
+      "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
+      "summary": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum Pushing GCSE subjects on younger pupils risks turning England’s secondary schools into “early exam facto",
+      "source": "The Guardian",
+      "category": "UK",
+      "published": "2026-11-08T18:07:54+00:00"
+    },
+    {
+      "title": "Climate always comes second: are green issues slipping down Burnham’s agenda?",
+      "url": "https://www.theguardian.com/environment/2026/nov/08/andy-burnham-uk-climate-crisis-rosebank-jackdaw",
+      "summary": "Prime minister says he’s committed to meeting climate targets, but some believe his actions suggest otherwise Labour expected to cut EV targets for car industry despite MPs’ climate concerns Andy Burnham insists he is co",
+      "source": "The Guardian",
+      "category": "UK",
+      "published": "2026-11-08T18:01:01+00:00"
+    },
+    {
+      "title": "Peschel scores on debut as USA rout Germany 5-0 at women’s hockey worlds",
+      "url": "https://www.theguardian.com/sport/2026/nov/08/usa-germany-womens-ice-hockey-world-championship-emma-peschel",
+      "summary": "Emma Peschel scores on US debut in Group A win Americans outscore opponents 12-0 through two games Sweden bounce back with 4-1 victory over Finland Emma Peschel celebrated her international debut with a goal as the Unite",
+      "source": "The Guardian",
+      "category": "Sport",
+      "published": "2026-11-08T18:00:54+00:00"
+    },
+    {
+      "title": "England ease pressure on Borthwick after big win over Australia",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/videos/cked3q4z0y5xo?at_medium=RSS&at_campaign=rss",
+      "summary": "England provide emphatic on-pitch backing for head coach Steve Borthwick as they score seven tries to swat aside a listless Australia at Allianz Stadium.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-08T18:00:25+00:00"
+    },
+    {
+      "title": "Alcaraz takes revenge on Shelton to win first Paris Masters title",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/ck9qz8d2znl5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Carlos Alcaraz takes revenge on Ben Shelton as the Spaniard's remarkable comeback from injury continues with victory in the final of the Paris Masters.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-08T17:56:35+00:00"
+    },
+    {
+      "title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
+      "url": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
+      "summary": "Exclusive: Louise Haigh likely to weaken mandate for sales that forms key part of emission reduction plan Analysis: Climate always comes second – are green issues slipping down Burnham’s agenda? Ministers are expected to",
+      "source": "The Guardian",
+      "category": "UK",
+      "published": "2026-11-08T17:51:19+00:00"
+    },
+    {
+      "title": "Collision of two trains in Egypt kills at least seven",
+      "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+      "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from Cairo Seven people were killed and more than 100 injured when two trains collided on Sunday south of the Egyptian",
+      "source": "The Guardian",
+      "category": "World",
+      "published": "2026-11-08T17:51:17+00:00"
     },
     {
       "title": "Russo double gives Arsenal win over Liverpool at Anfield",
@@ -53,7 +341,7 @@
     {
       "title": "Half of NHS trusts in England lack funds earmarked to cover maternity leave",
       "url": "https://www.theguardian.com/society/2026/nov/08/half-of-nhs-trusts-in-england-lack-funds-earmarked-to-cover-maternity-leave",
-      "summary": "Physiotherapy services hit particularly hard compared with other areas of healthcare such as nursing Almost half of the NHS trusts in England have no earmarked funding to cover staff on maternity leave, according to anal",
+      "summary": "Physiotherapy services hit particularly hard compared with other areas of healthcare such as nursing, union finds Almost half of the NHS trusts in England have no earmarked funding to cover staff on maternity leave, acco",
       "source": "The Guardian",
       "category": "UK",
       "published": "2026-11-08T17:42:39+00:00"
@@ -67,9 +355,25 @@
       "published": "2026-11-08T17:42:28+00:00"
     },
     {
+      "title": "10-man Stockport come from behind to survive huge scare at Cray",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o?at_medium=RSS&at_campaign=rss",
+      "summary": "League One Stockport County survive a scare to beat Isthmian League side Cray Wanderers 3-2 after extra time in the FA Cup first round.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-08T17:39:15+00:00"
+    },
+    {
+      "title": "Alan Jones obituary",
+      "url": "https://www.theguardian.com/sport/2026/nov/08/alan-jones-obituary",
+      "summary": "Australian driver who was the Formula One champion with the Williams team in 1981 and had 12 grand prix victories “The championship? You take it any way it comes,” said Alan Jones, with typical unsentimental pithiness, a",
+      "source": "The Guardian",
+      "category": "Sport",
+      "published": "2026-11-08T17:35:01+00:00"
+    },
+    {
       "title": "Carlos Alcaraz beats error-prone Ben Shelton to win Paris Masters",
       "url": "https://www.theguardian.com/sport/2026/nov/08/carlos-alcaraz-ben-shelton-win-paris-masters-final",
-      "summary": "World No 3 wins 7-6 (5), 7-5 Spaniard claims ninth 1000-level title of his career Carlos Alcaraz avenged his loss to ⁠Ben Shelton in the US Open last eight as he edged the American 7-6 (5), 7-5 to win the Paris Masters ⁠",
+      "summary": "World No 3 defeats American 7-6 (5), 7-5 in final Spaniard claims ninth 1000-level title of his career Carlos Alcaraz avenged his defeat by ⁠Ben Shelton in the US Open last eight as he edged the American 7-6 (5), 7-5 to ",
       "source": "The Guardian",
       "category": "Sport",
       "published": "2026-11-08T17:31:01+00:00"
@@ -83,28 +387,12 @@
       "published": "2026-11-08T17:25:45+00:00"
     },
     {
-      "title": "Collision of two trains in Egypt kills at least seven",
-      "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-      "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from Cairo At least seven people were killed and more than 100 others injured when two trains collided on Sunday south",
-      "source": "The Guardian",
-      "category": "World",
-      "published": "2026-11-08T17:19:39+00:00"
-    },
-    {
       "title": "Henry Pollock powers seven-try England to crushing victory against Australia",
       "url": "https://www.theguardian.com/sport/2026/nov/08/england-australia-nations-championship-rugby-union-match-report",
-      "summary": "England 45-22 Australia George, Chessum and Heyes scored first-half tries England had promised to do their talking on the field and so it came to pass. After a turbulent few days, this result was certainly a more than de",
+      "summary": "England 45-22 Australia George, Chessum and Heyes scored first-half tries England had promised to do their talking on the field and so it came to pass. After a turbulent few days, this result was certainly a thumping rip",
       "source": "The Guardian",
       "category": "Sport",
       "published": "2026-11-08T17:11:53+00:00"
-    },
-    {
-      "title": "London City thump Birmingham to close gap on second",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&at_campaign=rss",
-      "summary": "London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-08T17:06:21+00:00"
     },
     {
       "title": "England swat aside Wallabies to back up Borthwick",
@@ -113,14 +401,6 @@
       "source": "BBC Sport",
       "category": "Sport",
       "published": "2026-11-08T17:04:08+00:00"
-    },
-    {
-      "title": "Grimsby fight back from two goals down to edge Stafford on penalties",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cv5yn1w5j359o?at_medium=RSS&at_campaign=rss",
-      "summary": "League Two side Grimsby Town recover from a two-goal deficit against the FA Cup first round's lowest-ranked team, Stafford Rangers. Grimsby battled back to level the tie at 3-3 before winning 3-2 in the penalty shootout ",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-08T17:00:00+00:00"
     },
     {
       "title": "Nasa seeks next generation of astronauts to live and work on the moon",
@@ -157,7 +437,7 @@
     {
       "title": "Le Fée’s penalty stuns Chelsea and breathes life into defiant Sunderland",
       "url": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report",
-      "summary": "A lot can change in five-and-half months, but as an early winter chill descended on Wearside this week – both meteorologically and metaphorically – Sunderland were determined that some things should remain the same. Just",
+      "summary": "A lot can change in five‑and‑a‑half months, but as an early winter chill descended on Wearside last week – both meteorologically and ­metaphorically – Sunderland were determined that some things should remain the same. J",
       "source": "The Guardian",
       "category": "Sport",
       "published": "2026-11-08T16:16:34+00:00"
@@ -165,7 +445,7 @@
     {
       "title": "Footage shows derailed carriages after fatal train crash in Egypt",
       "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
+      "summary": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
       "source": "BBC News",
       "category": "World",
       "published": "2026-11-08T16:05:57+00:00"
@@ -195,22 +475,6 @@
       "published": "2026-11-08T15:37:25+00:00"
     },
     {
-      "title": "'Dreamland!' - Cray score brilliant free-kick as Stockport down to 10",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c64g1n4w70p9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Stockport goalkeeper Luca Ashby-Hammond is given a straight red card after a challenge on the edge of the box and from the subsequent free-kick Alex Hernandez doubles Cray Wanderers' lead with a fantastic free-kick.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-08T15:31:43+00:00"
-    },
-    {
-      "title": "England await Guehi scan results after injury concern",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Manchester City defender Marc Guehi will undergo a scan on a hip complaint on Sunday to determine whether he can report for England duty this week.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-08T15:03:01+00:00"
-    },
-    {
       "title": "US employers keep passing rising healthcare costs to workers. There are better options",
       "url": "https://www.theguardian.com/business/2026/nov/08/employer-healthcare-plans",
       "summary": "Choosing a healthcare plan can be extremely complicated, but it’s necessary to attract and retain good workers Again, healthcare costs are going up. According to a recent study from Mercer, total health benefit cost per ",
@@ -219,20 +483,12 @@
       "published": "2026-11-08T15:00:43+00:00"
     },
     {
-      "title": "End of the ‘vomit comet’: Scillonian III sets sail on final voyage from Isles of Scilly",
+      "title": "End of the ‘vomit comet’: Scillonian III makes final voyage from Isles of Scilly",
       "url": "https://www.theguardian.com/uk-news/2026/nov/08/scillonian-iii-ship-final-voyage-isles-of-scilly-penzance-cornwall",
       "summary": "Much-loved passenger ship has traversed Atlantic swells between islands and Cornish mainland for almost 50 years Tears were shed, sea shanties sung and tales of stormy voyages exchanged as one of the UK’s most characterf",
       "source": "The Guardian",
       "category": "UK",
       "published": "2026-11-08T14:56:59+00:00"
-    },
-    {
-      "title": "Two police officers hailed as heroes for confronting Kraków gunman",
-      "url": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
-      "summary": "Jakub Kulik critically injured and Artur Morański also wounded after actions that ‘prevented further casualties’ Two Polish police officers who were injured as they pursued and detained the gunman in Kraków on Saturday h",
-      "source": "The Guardian",
-      "category": "World",
-      "published": "2026-11-08T14:49:16+00:00"
     },
     {
       "title": "Homes and temples glow across India to mark Diwali",
@@ -241,14 +497,6 @@
       "source": "BBC News",
       "category": "World",
       "published": "2026-11-08T14:42:09+00:00"
-    },
-    {
-      "title": "Chengdu lose final four games to blow 12-point lead and Chinese title",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq2d698j5gxgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Chengdu Rongcheng lose their final four matches of the season to give up a 12-point lead and throw away the Chinese Super League title.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-08T14:41:04+00:00"
     },
     {
       "title": "Russo on target again as double fires under-pressure Arsenal to vital WSL win at Liverpool",
@@ -267,52 +515,12 @@
       "published": "2026-11-08T14:00:43+00:00"
     },
     {
-      "title": "'That's Reece' - World Cup semi-final brings out best and worst of Walsh",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cm93zrw2wz9go?at_medium=RSS&at_campaign=rss",
-      "summary": "On a fractious night in Sydney that ended with Australia reaching yet another Men's Rugby League World Cup final, it was no surprise to see Reece Walsh centre stage – for better or worse.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-08T13:57:54+00:00"
-    },
-    {
-      "title": "Australia battle past Fiji to reach fifth consecutive World Cup final",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cqm26j5lg651o?at_medium=RSS&at_campaign=rss",
-      "summary": "Abbi Church scores four tries as Australia earn a hard-fought 30-14 win over World Cup debutants Fiji, to progress to their fifth consecutive Women's Rugby League World Cup final.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-08T13:56:28+00:00"
-    },
-    {
       "title": "New drug could be cure for common cause of high blood pressure",
       "url": "https://www.theguardian.com/society/2026/nov/08/new-drug-high-blood-pressure-baxdrostat",
       "summary": "Benefits of baxdrostat are unexpectedly found to remain up to two years after patients stop taking it Millions of people with high blood pressure stand to benefit from a new drug that has stunned doctors by reversing a c",
       "source": "The Guardian",
       "category": "Science",
       "published": "2026-11-08T13:53:41+00:00"
-    },
-    {
-      "title": "King leads solemn Remembrance Sunday service at Cenotaph",
-      "url": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.",
-      "source": "BBC News",
-      "category": "UK",
-      "published": "2026-11-08T13:49:07+00:00"
-    },
-    {
-      "title": "Australia dismantle Samoa to reach World Cup final",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cqly04r1n6xzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Reece Walsh scores a hat-trick of tries as Australia stun Samoa 44-12 to reach the Rugby League World Cup final.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-08T13:42:46+00:00"
-    },
-    {
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "summary": "One of the men, Professor Michal Pędziwiatr, when they got to the scene, they treated both the alleged gunman and the police officers.",
-      "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-08T13:40:24+00:00"
     },
     {
       "title": "Iran executes three men for 'armed unrest' after January protests",
@@ -339,14 +547,6 @@
       "published": "2026-11-08T13:24:00+00:00"
     },
     {
-      "title": "Russell Brand case must be wake-up call to protect women in media, Lisa Nandy says",
-      "url": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
-      "summary": "Culture secretary says there is still a problem with exploitation and abuse in the industry and public life The culture secretary, Lisa Nandy, has said there is still a problem with exploitation and abuse in the media in",
-      "source": "The Guardian",
-      "category": "UK",
-      "published": "2026-11-08T13:18:50+00:00"
-    },
-    {
       "title": "Rahm pips Hatton & McIlroy to Abu Dhabi title",
       "url": "https://www.bbc.co.uk/sport/golf/articles/c6y0exdrp2xeo?at_medium=RSS&at_campaign=rss",
       "summary": "Jon Rahm fires a final-round 67 to clinch a two-shot victory ahead of Tyrrell Hatton at the Abu Dhabi Championship.",
@@ -363,28 +563,12 @@
       "published": "2026-11-08T13:05:30+00:00"
     },
     {
-      "title": "Nine former PMs join King Charles at Remembrance Sunday service in London",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/08/second-world-war-veterans-outnumber-former-pms-for-possible-last-time-on-remembrance-sunday",
-      "summary": "Andy Burnham takes part for first time alongside about 12 second world war veterans, as ceremonies held across UK Second world war veterans outnumbered former prime ministers for what could be the last time at the nation",
-      "source": "The Guardian",
-      "category": "UK",
-      "published": "2026-11-08T13:05:13+00:00"
-    },
-    {
       "title": "Revealed: how a UK firm is spearheading growth in trade of US fracked ethane",
       "url": "https://www.theguardian.com/environment/2026/nov/08/ineos-fracking-us",
       "summary": "Ineos is driving exports with potentially far-reaching environmental and social repercussions “My children started getting sick,” says Lois Bower-Bjornson, a campaigner at the Clean Air Council in Washington County, Penn",
       "source": "The Guardian",
       "category": "Business",
       "published": "2026-11-08T13:00:41+00:00"
-    },
-    {
-      "title": "Australia reach World Cup final after Fiji scare",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6vg02klk084o?at_medium=RSS&at_campaign=rss",
-      "summary": "Australia have reached their fifth successive Women's Rugby League World Cup final as they seek a fourth consecutive title - but they were made to work harder than anyone expected.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-08T12:39:01+00:00"
     },
     {
       "title": "Dormice 'thrive' at National Trust site",
@@ -435,36 +619,12 @@
       "published": "2026-11-08T11:48:56+00:00"
     },
     {
-      "title": "Reece Walsh hat-trick drives Australia past Samoa and into Rugby League World Cup final",
-      "url": "https://www.theguardian.com/sport/2026/nov/08/australia-kangaroos-samoa-rugby-league-world-cup-mens-semi-final-match-report",
-      "summary": "Kangaroos beat Toa Samoa 44-12 at Sydney’s Allianz Stadium New Zealand await Australia in next weekend’s men’s final This was supposed to be Samoa’s chance to challenge the wilting Kangaroos, whose patchy recent performa",
-      "source": "The Guardian",
-      "category": "Sport",
-      "published": "2026-11-08T11:20:29+00:00"
-    },
-    {
       "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
       "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
       "summary": "Delegates from more than 190 countries are gathering in Turkey for climate talks, but the US will be absent As the planet faces unprecedented human-caused global heating, heads of government are meeting for the next fort",
       "source": "The Guardian",
       "category": "World",
       "published": "2026-11-08T11:00:38+00:00"
-    },
-    {
-      "title": "How the story of ‘the girl of 100 portraits’ inspired two books",
-      "url": "https://www.theguardian.com/books/2026/nov/08/louise-cansot-paris-model-prix-goncourt-phillipe-jaenada-luc-corlouer",
-      "summary": "Luc Corlouër made ‘deal’ with Prix Goncourt winner Philippe Jaenada over his research into model Louise Cansot, murdered in Paris in 1949 For almost eight decades the artists’ model Louise Cansot, the subject of the nove",
-      "source": "The Guardian",
-      "category": "World",
-      "published": "2026-11-08T11:00:38+00:00"
-    },
-    {
-      "title": "Mother of Royal Navy sailor missing for 40 years calls for suspected killer to confess",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/08/simon-parkes-navy-sailor-mother-allan-grimson-suspected-killer",
-      "summary": "Margaret Parkes and her husband, in their 80s, want Allan Grimson to reveal location of their son Simon’s remains The mother of a teenage Royal Navy sailor who vanished 40 years ago has called for a “serial killer” suspe",
-      "source": "The Guardian",
-      "category": "UK",
-      "published": "2026-11-08T11:00:37+00:00"
     },
     {
       "title": "I haven't thrown anyone under the bus - Khawaja",
@@ -486,14 +646,6 @@
       "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
       "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
       "summary": "President has opposing views on many issues, and once called Leo’s predecessor the ‘representative of the Evil One’ Trees are being planted in the garden. The brightly coloured buildings are getting another coat of paint",
-      "source": "The Guardian",
-      "category": "World",
-      "published": "2026-11-08T09:00:35+00:00"
-    },
-    {
-      "title": "Psychiatrists and paediatricians among specialists most likely to charge ‘extreme’ fees, thinktank finds",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/08/psychiatrists-paediatricians-extreme-specialist-fees-health-australia",
-      "summary": "Grattan Institute finds some doctors charge up to triple the fees of their peers – well beyond what can be justified by business running costs Get our breaking news email , free app or daily news podcast More than 2.2 mi",
       "source": "The Guardian",
       "category": "World",
       "published": "2026-11-08T09:00:35+00:00"
@@ -531,25 +683,9 @@
       "published": "2026-11-08T08:00:36+00:00"
     },
     {
-      "title": "Reintroduction of white-tailed eagles puts seabird colonies at risk of wipeout, say experts",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/reintroduction-white-tailed-eagles-seabird-colonies-risk-england-wales",
-      "summary": "Naturalists divided over potential impact of proposals to increase number of wild raptors in England and Wales White-tailed eagles reintroduced into England and Wales imperil endangered seabird populations and risk wipin",
-      "source": "The Guardian",
-      "category": "UK",
-      "published": "2026-11-08T08:00:35+00:00"
-    },
-    {
       "title": "Female sports journalists have always faced sexism. Social media has made it vicious and relentless | Anjali Doshi",
       "url": "https://www.theguardian.com/sport/2026/nov/08/female-sports-journalists-sexism-social-media-vicious-relentless-cricket",
       "summary": "I have reported on cricket for two decades. The abuse I have been subjected to in recent years is shocking and demoralising By Wisden Cricket Monthly Twenty-four years ago I walked into the Wankhede press box for the fir",
-      "source": "The Guardian",
-      "category": "Sport",
-      "published": "2026-11-08T08:00:35+00:00"
-    },
-    {
-      "title": "Julián Alvarez’s Atlético redemption arc in full focus for visit of Barcelona",
-      "url": "https://www.theguardian.com/football/2026/nov/08/julian-alvarezs-atletico-redemption-arc-in-full-focus-for-visit-of-barcelona",
-      "summary": "Top spot is up for grabs in Sunday’s heavyweight clash as the Spider faces the team that tried to trap him last summer Julián Alvarez said sorry but forgiveness must be earned on the field and Sunday would be the perfect",
       "source": "The Guardian",
       "category": "Sport",
       "published": "2026-11-08T08:00:35+00:00"
@@ -611,6 +747,14 @@
       "published": "2026-11-08T07:00:34+00:00"
     },
     {
+      "title": "‘Windrush’ accusations over sharp rise in Turkish nationals facing removal from UK",
+      "url": "https://www.theguardian.com/politics/2026/nov/08/turkish-nationals-uk-indefinite-leave-to-remain-home-office-windrush",
+      "summary": "David Lammy among those raising concerns after errors found in rejected applications for indefinite leave to remain Concerns have been raised over the sudden rise in number of Turkish nationals facing removal from the UK",
+      "source": "The Guardian",
+      "category": "UK",
+      "published": "2026-11-08T07:00:33+00:00"
+    },
+    {
       "title": "‘Free grand piano’: the scam playing on music lovers’ heartstrings",
       "url": "https://www.theguardian.com/money/2026/nov/08/free-grand-piano-scam-emails",
       "summary": "Emails claim to come from a woman whose husband has died – but the offer isn’t what it seems An email pops up in your inbox: a woman whose husband has died is giving away his grand piano for free. She says she would love",
@@ -639,7 +783,7 @@
       "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink",
       "summary": "In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own space capabilities For people in ",
       "source": "The Guardian",
-      "category": "Science",
+      "category": "Technology",
       "published": "2026-11-08T05:00:30+00:00"
     },
     {
@@ -731,44 +875,12 @@
       "published": "2026-11-08T00:48:59+00:00"
     },
     {
-      "title": "The rise of microdramas: The 'snackable' shows made for the scrolling age",
-      "url": "https://www.bbc.co.uk/news/articles/cm87zv70jg9no?at_medium=RSS&at_campaign=rss",
-      "summary": "The snappy, high-octane episodes - viewed on your phone - are huge in China and on the up in the UK.",
-      "source": "BBC News",
-      "category": "UK",
-      "published": "2026-11-08T00:45:45+00:00"
-    },
-    {
       "title": "Can the Zelda remake capture the magic of the original?",
       "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
       "summary": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
       "source": "BBC News",
       "category": "Technology",
       "published": "2026-11-08T00:37:45+00:00"
-    },
-    {
-      "title": "'It's Savage junior's night' - Charlie scores against dad Robbie's side",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Robbie Savage's son Charlie scores for Reading against Peterborough United, the side his father manages in the first round of the FA Cup.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-08T00:13:34+00:00"
-    },
-    {
-      "title": "'Wonderful goal' - Crewe's McNeill scores from halfway line",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmkgekn1007qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Charlie McNeill scores from the halfway line in the 12th minute to open the scoring for Crewe Alexandra against AFC Wimbledon in the first round of the FA Cup.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-08T00:07:11+00:00"
-    },
-    {
-      "title": "Arsenal should have been awarded penalty against Hull - Cann",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Former Premier League assistant referee Darren Cann explains why Arsenal should have been awarded a penalty for a foul on Kai Havertz in the Premier League champions' 1-0 win over Hull City.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-08T00:00:09+00:00"
     },
     {
       "title": "Thousands watch elaborate carnival cart procession",
@@ -803,14 +915,6 @@
       "published": "2026-11-07T20:53:55+00:00"
     },
     {
-      "title": "Steve Tandy warns Wales to be more ruthless after edgy win against Japan",
-      "url": "https://www.theguardian.com/sport/2026/nov/07/wales-japan-nations-championship-rugby-union-match-report",
-      "summary": "Wales 28-21 Japan Head coach wants more in New Zealand Test Steve Tandy has admitted there is no hiding from his team’s below-par performance ⁠in their 28-21 home Nations Championship victory over Japan on Saturday where",
-      "source": "The Guardian",
-      "category": "Sport",
-      "published": "2026-11-07T20:52:09+00:00"
-    },
-    {
       "title": "FAA announces first US digital air traffic control towers in Florida and Alaska",
       "url": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
       "summary": "Systems provide 360-degree view of airport operations, but concerns have been raised about the technology The Federal Aviation Administration (FAA) has announced that the first digital air traffic control towers in the U",
@@ -819,52 +923,12 @@
       "published": "2026-11-07T20:03:23+00:00"
     },
     {
-      "title": "Delap double inspires Forest to stunning win over Man City",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-07T20:02:25+00:00"
-    },
-    {
       "title": "There are very few reasons for Unai Emery to leave Aston Villa for Manchester United | Jonathan Wilson",
       "url": "https://www.theguardian.com/football/2026/nov/07/manager-sorts-out-manchester-united-unai-emery",
       "summary": "Spaniard may feel some of Old Trafford’s allure when he goes there on Sunday but he is right in wanting to stay at the club with brighter prospects On Sunday afternoon, shortly before 4.30, Unai Emery will leave the tunn",
       "source": "The Guardian",
       "category": "Sport",
       "published": "2026-11-07T20:00:19+00:00"
-    },
-    {
-      "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-07T19:59:37+00:00"
-    },
-    {
-      "title": "Leeds beat Spurs to end five-game winless run",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-07T19:59:34+00:00"
-    },
-    {
-      "title": "Arsenal beat Hull to extend lead at top of the table",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-07T19:59:31+00:00"
-    },
-    {
-      "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-07T19:34:32+00:00"
     },
     {
       "title": "Paraguay's former president charged after bank collapse",
@@ -1006,14 +1070,6 @@
       "title": "Great British Railways: new dawn for a new network but with plenty of old problems to fix",
       "url": "https://www.theguardian.com/business/2026/nov/07/great-british-railways-new-dawn-for-a-new-network-but-with-plenty-of-old-problems-to-fix",
       "summary": "Experts predict a baptism of fire for GBR in 2027, with likely issues ranging from clapped-out trains and track to extreme weather-related stress The glad tidings brought by the minister were that the wait was almost ove",
-      "source": "The Guardian",
-      "category": "UK",
-      "published": "2026-11-07T13:00:11+00:00"
-    },
-    {
-      "title": "Court rules against Home Office in asylum seeker kidnapping case",
-      "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
-      "summary": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in Libya The court of appeal has rejected claims by the Home Office that being kidnapped f",
       "source": "The Guardian",
       "category": "UK",
       "published": "2026-11-07T13:00:11+00:00"
@@ -1171,14 +1227,6 @@
       "published": "2026-11-07T06:00:05+00:00"
     },
     {
-      "title": "Rise of the ‘schooligans’: how a wave of antisocial behaviour threatens non-league football",
-      "url": "https://www.theguardian.com/football/2026/nov/07/antisocial-behaviour-non-league-football-youth-hooligans-police",
-      "summary": "Teenage ultras are increasingly causing disorder and communities fear it will not be long before it becomes something more dangerous It is five past three on Saturday afternoon and the teenage ultras of Hednesford Town a",
-      "source": "The Guardian",
-      "category": "Sport",
-      "published": "2026-11-07T06:00:05+00:00"
-    },
-    {
       "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
       "url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
       "summary": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.",
@@ -1235,28 +1283,12 @@
       "published": "2026-11-06T23:45:52+00:00"
     },
     {
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-      "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-06T23:24:15+00:00"
-    },
-    {
       "title": "An Indian film that nobody would release is finally a hit - 18 awards later",
       "url": "https://www.bbc.co.uk/news/articles/c6ly334rem5do?at_medium=RSS&at_campaign=rss",
       "summary": "Extraordinary scenes of audiences crying leaving theatres after watching the film have been shared on social media.",
       "source": "BBC News",
       "category": "Entertainment",
       "published": "2026-11-06T22:59:54+00:00"
-    },
-    {
-      "title": "Barry scores twice as Everton fight back to beat Coventry",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
-      "summary": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-06T22:30:12+00:00"
     },
     {
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
@@ -1299,28 +1331,12 @@
       "published": "2026-11-06T20:15:51+00:00"
     },
     {
-      "title": "Australia need a way to turn moments into momentum and revive spirits",
-      "url": "https://www.theguardian.com/sport/2026/nov/06/australia-need-a-way-to-turn-moments-into-momentum-to-revive-spirits",
-      "summary": "The Wallabies have a squad capable of magic but doubts remain over whether their talents can be knitted into a great team There are moments when Australia look like a team that can take on the world. Moments when they’re",
-      "source": "The Guardian",
-      "category": "Sport",
-      "published": "2026-11-06T20:02:08+00:00"
-    },
-    {
       "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
       "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
       "summary": "The Chilean film-maker, whose films starred Florence Pugh, Julianne Moore and Rachel Weisz, died at his home in Santiago Chilean film-maker Sebastián Lelio has died at the age of 52. He was best known for the Oscar-winni",
       "source": "The Guardian",
       "category": "World",
       "published": "2026-11-06T19:23:24+00:00"
-    },
-    {
-      "title": "Injury crises and Borthwick under scrutiny: it’s that time of year again for England rugby",
-      "url": "https://www.theguardian.com/sport/2026/nov/06/nations-championship-injuries-steve-borthwick-england-australia-rugby",
-      "summary": "Sunday’s hosts need to stop looking for excuses and focus on what they can control to kick off the Nations Championship against battle-hardened Australia Several things are increasingly guaranteed from an English rugby p",
-      "source": "The Guardian",
-      "category": "Sport",
-      "published": "2026-11-06T19:15:49+00:00"
     },
     {
       "title": "Want to have a better chat? Scientists say the secret is ‘pink noise’",
@@ -1425,22 +1441,6 @@
       "source": "The Guardian",
       "category": "UK",
       "published": "2026-11-06T15:28:18+00:00"
-    },
-    {
-      "title": "PM tells firms to publish salaries in job adverts ahead of new law",
-      "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
-      "source": "BBC News",
-      "category": "Business",
-      "published": "2026-11-06T15:25:43+00:00"
-    },
-    {
-      "title": "New wave of bomb threats hit European airlines",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
-      "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-06T15:25:35+00:00"
     }
   ]
 }

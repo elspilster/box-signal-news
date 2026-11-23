@@ -1,22 +1,286 @@
 {
-  "date": "2026-11-22",
-  "updated": "2026-11-22T19:36:52.314209+00:00",
+  "date": "2026-11-23",
+  "updated": "2026-11-23T01:40:33.530496+00:00",
   "stories": [
     {
-      "title": "Carlos Alcaraz beats Alexander Zverev to seal ATP finals glory – live",
-      "url": "https://www.theguardian.com/sport/live/2026/nov/22/atp-finals-tennis-alexander-zverev-carlos-alcaraz-final-live",
-      "summary": "Updates as top two seeds battle for trophy Mail Daniel | Men’s $350m prize money boost On my goodness! Bocelli is back for Il Canto degli Italiani. Tuuuuuune! So what’s going to happen? I thought you’d never ask. I’m goi",
+      "title": "Australian politics live: PM’s staff numbers exceed crossbench’s allocation combined; Minns ends presser after heckling",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+      "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on clima",
       "source": "The Guardian",
-      "category": "Sport",
-      "published": "2026-11-22T19:30:50+00:00"
+      "category": "World",
+      "published": "2026-11-23T01:26:23+00:00"
     },
     {
-      "title": "NFL week 11: Dolphins v Bills, Buccaneers v Lions, Saints v Bears, and more – live",
-      "url": "https://www.theguardian.com/sport/live/2026/nov/22/nfl-week-11-dolphins-v-bills-buccaneers-v-lions-saints-v-bears-and-more-live",
-      "summary": "Updates from the 6pm GMT (1pm ET) matchups Follow us on TikTok | And you can email Graham TOUCHDOWN! Ravens 9-0 Panthers 11:21, 1st quarter J Brissett to R Bateman for 52 yards J Williams one yard rush Continue reading..",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-23T01:23:43+00:00"
+    },
+    {
+      "title": "Tributes flow for Molly Meldrum: Anthony Albanese, Jason Donovan and others remember music industry great",
+      "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes",
+      "summary": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of ‘a truly unique character’ and ‘the fan all artists wish to have’ Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83 Molly Meldru",
+      "source": "The Guardian",
+      "category": "World",
+      "published": "2026-11-23T01:23:07+00:00"
+    },
+    {
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+      "source": "BBC News",
+      "category": "Business",
+      "published": "2026-11-23T01:05:07+00:00"
+    },
+    {
+      "title": "Beau Lamarre-Condon ‘executed’ Jesse Baird and Luke Davies then lied about it, prosecution argues",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
+      "summary": "Crown urges jury to reject accused’s claim of self-defence and find him guilty of murdering Sydney couple Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news po",
+      "source": "The Guardian",
+      "category": "World",
+      "published": "2026-11-23T00:54:02+00:00"
+    },
+    {
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-23T00:50:35+00:00"
+    },
+    {
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-23T00:33:36+00:00"
+    },
+    {
+      "title": "Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83",
+      "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83",
+      "summary": "Much-loved broadcaster played a critical role in exposing rest of the world to Australian music – and vice versa Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and others remember music industry great Molly",
+      "source": "The Guardian",
+      "category": "World",
+      "published": "2026-11-23T00:25:40+00:00"
+    },
+    {
+      "title": "What is going on with Poundland?",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "source": "BBC News",
+      "category": "Business",
+      "published": "2026-11-23T00:22:27+00:00"
+    },
+    {
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "source": "BBC News",
+      "category": "Business",
+      "published": "2026-11-23T00:08:00+00:00"
+    },
+    {
+      "title": "Patients may miss out on NHS weight-loss jabs in England after GP funding withdrawn",
+      "url": "https://www.theguardian.com/science/2026/nov/23/patients-miss-out-nhs-weight-loss-mounjaro-gp-funding-withdrawn",
+      "summary": "Inquiry finds most integrated care boards have scrapped payments to GPs for prescribing and monitoring the drug Patients who are eligible for potentially life-changing weight-loss injections on the NHS risk missing out a",
+      "source": "The Guardian",
+      "category": "Science",
+      "published": "2026-11-23T00:01:40+00:00"
+    },
+    {
+      "title": "Did Liverpool 'get lucky' with red card decision?",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
+      "summary": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-22T23:59:59+00:00"
+    },
+    {
+      "title": "How 'outstanding' Tzolakis kept Brighton at bay",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Match of the Day pundit Danny Murphy looks at how Hull goalkeeper Konstantinos Tzolakis was able to thwart high-flying Brighton in their 2-0 win over the Seagulls at the MKM Stadium.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-22T23:59:57+00:00"
+    },
+    {
+      "title": "'We feel the pain': Pochettino on 4-0 defeat at Liverpool to start Manchester United era – video",
+      "url": "https://www.theguardian.com/football/video/2026/nov/22/we-feel-the-pain-pochettino-on-4-0-defeat-at-liverpool-to-start-manchester-united-era-video",
+      "summary": "Liverpool thrashed 10-man Manchester United 4-0 at Anfield on Sunday to climb to fourth in the Premier League. But the defeat left United 19th, only one point above bottom-placed Crystal Palace. There was no new manager ",
       "source": "The Guardian",
       "category": "Sport",
-      "published": "2026-11-22T19:27:29+00:00"
+      "published": "2026-11-22T23:33:33+00:00"
+    },
+    {
+      "title": "‘Melbourne showed us how to welcome the world’: Australia’s Olympians reflect on 70-year legacy",
+      "url": "https://www.theguardian.com/sport/2026/nov/23/brisbane-olympics-australia-70-year-legacy",
+      "summary": "Brisbane 2032 can learn from the experiences of the 1956 event, say some of the surviving athletes from the Melbourne Games When the Brisbane Olympic Games arrive in 2032, it will have been three-quarters of a century si",
+      "source": "The Guardian",
+      "category": "Sport",
+      "published": "2026-11-22T23:28:39+00:00"
+    },
+    {
+      "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-22T23:20:16+00:00"
+    },
+    {
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-22T22:37:43+00:00"
+    },
+    {
+      "title": "Mets reportedly agree $450m contract with Tarik Skubal, richest deal for pitcher in MLB history",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/tarik-skubal-new-york-mets-reported-deal-contract",
+      "summary": "Ace’s contract reportedly for nine years Mets have missed playoffs for last two seasons The New York Mets look to have sealed the biggest deal of MLB’s offseason by signing free agent pitcher Tarik Skubal. The New York P",
+      "source": "The Guardian",
+      "category": "Sport",
+      "published": "2026-11-22T22:25:59+00:00"
+    },
+    {
+      "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+      "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+      "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May aw",
+      "source": "The Guardian",
+      "category": "UK",
+      "published": "2026-11-22T22:00:58+00:00"
+    },
+    {
+      "title": "NFL roundup: Chiefs, Lions and Bills march on; Metcalf ejected for eye poke in Steelers loss",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/nfl-roundup-sunday-football-scores",
+      "summary": "Bears also continue strong start to season Ravens go down to sixth-straight loss Greg Rousseau had two sacks, including his team-leading 10th of the season, and Buffalo’s defense bailed out the Bills’ sputtering Josh All",
+      "source": "The Guardian",
+      "category": "Sport",
+      "published": "2026-11-22T21:57:54+00:00"
+    },
+    {
+      "title": "Gerwyn Price ends barren run with Grand Slam of Darts win: ‘Now they can stop talking’",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/gerwyn-price-ends-barren-run-with-grand-slam-victory-in-wolverhampton",
+      "summary": "Price beats Gian van Veen 16-11 to secure title Welshman lost ‘so many finals’ in four years of pain Gerwyn Price finally ended his major trophy drought by winning the Grand Slam of Darts and is delighted to silence his ",
+      "source": "The Guardian",
+      "category": "Sport",
+      "published": "2026-11-22T21:54:55+00:00"
+    },
+    {
+      "title": "Thitikul wins third title in a row at LPGA finale",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/ckjwjvwexd12o?at_medium=RSS&at_campaign=rss",
+      "summary": "World number two Jeeno Thitikul produces a seven-under final round of 65 to claim a third successive CME Group Tour Championship title.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-22T21:54:08+00:00"
+    },
+    {
+      "title": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the f-word failure is not his alone",
+      "url": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
+      "summary": "Australia’s climate change minister will face a torrent of criticism over his role, but disagreement over fossil fuels proved an unbridgeable sticking point After delivering a major speech to the UN climate talks in Turk",
+      "source": "The Guardian",
+      "category": "World",
+      "published": "2026-11-22T21:46:40+00:00"
+    },
+    {
+      "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-22T21:44:37+00:00"
+    },
+    {
+      "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-22T21:36:00+00:00"
+    },
+    {
+      "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+      "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspect",
+      "source": "The Guardian",
+      "category": "World",
+      "published": "2026-11-22T21:33:44+00:00"
+    },
+    {
+      "title": "‘It’s painful for me’: Pochettino criticises Yoro red card in Anfield humiliation",
+      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
+      "summary": "Manchester United lose 4-0 to Liverpool after early red Argentinian suffers club’s joint-heaviest debut defeat Mauricio Pochettino argued that Leny Yoro was wrongly sent off and that Manchester United were earlier denied",
+      "source": "The Guardian",
+      "category": "Sport",
+      "published": "2026-11-22T21:31:03+00:00"
+    },
+    {
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The couple have been together for four years and were engaged in 2025.",
+      "source": "BBC News",
+      "category": "World",
+      "published": "2026-11-22T21:22:40+00:00"
+    },
+    {
+      "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-22T21:22:10+00:00"
+    },
+    {
+      "title": "Price wins Grand Slam to end wait for major title",
+      "url": "https://www.bbc.co.uk/sport/darts/articles/cklye10j4z1yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Gerwyn Price ends his four-year wait for a major PDC title as he powers to a brilliant 16-11 victory over Gian van Veen in the Grand Slam of Darts final.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-22T21:06:47+00:00"
+    },
+    {
+      "title": "Pepe did not injure eyes staring at sun, say Villarreal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8zx9y6d29vyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Villarreal say reports striker Nicolas Pepe needed eye surgery because he stared directly at the solar eclipse are \"completely false\".",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-22T21:04:55+00:00"
+    },
+    {
+      "title": "Man Utd plotting Toney move - Monday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck053nyl6399o?at_medium=RSS&at_campaign=rss",
+      "summary": "Manchester United eye move for Al-Ahli striker Ivan Toney, Fulham hold contract talks with Calvin Bassey and PSG could step up pursuit of Eli Junior Kroupi.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-22T21:04:15+00:00"
+    },
+    {
+      "title": "Pochettino’s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
+      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
+      "summary": "Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpit Chaotic, bewildering, and on this evidence in a relegation dogfight: welcome to the three‑ring circu",
+      "source": "The Guardian",
+      "category": "Sport",
+      "published": "2026-11-22T20:58:35+00:00"
+    },
+    {
+      "title": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
+      "summary": "Jay Clayton was pressed on Trump’s characterization of Putin during media appearances on Sunday Jay Clayton, the US director of national intelligence, said he trusts Donald Trump “completely” after the US president calle",
+      "source": "The Guardian",
+      "category": "World",
+      "published": "2026-11-22T20:55:33+00:00"
+    },
+    {
+      "title": "Alcaraz puts Zverev in shade as world’s best beats No 1 for first ATP Finals title",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/carlos-alcaraz-first-atp-finals-title-alexander-zverev-tennis",
+      "summary": "Spaniard wins final 6-2, 7-6 (7) against new world No 1 Alcaraz the fourth to win career grand slam and ATP Finals The titles of ATP world No 1 and the best male tennis player in the world are carried by two different na",
+      "source": "The Guardian",
+      "category": "Sport",
+      "published": "2026-11-22T20:43:11+00:00"
     },
     {
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
@@ -24,15 +288,47 @@
       "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
       "source": "BBC News",
       "category": "World",
-      "published": "2026-11-22T19:26:54+00:00"
+      "published": "2026-11-22T20:28:09+00:00"
     },
     {
-      "title": "Iraola 'enjoyed' big win over Man Utd",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3y0x55ey81yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Liverpool head coach Andoni Iraola is pleased with his side's performance in their dominant win over Manchester United although he says that his side can still play better.",
+      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+      "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive offi",
+      "source": "The Guardian",
+      "category": "Technology",
+      "published": "2026-11-22T20:23:36+00:00"
+    },
+    {
+      "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
       "source": "BBC Sport",
       "category": "Sport",
-      "published": "2026-11-22T19:25:21+00:00"
+      "published": "2026-11-22T20:15:48+00:00"
+    },
+    {
+      "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-22T19:59:38+00:00"
+    },
+    {
+      "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-22T19:59:35+00:00"
+    },
+    {
+      "title": "Camara to continue with Haas for final two races",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cwe9k29y7z44o?at_medium=RSS&at_campaign=rss",
+      "summary": "Brazilian Rafael Camara will continue to race for the Haas team for the final two grands prix of the Formula 1 season.",
+      "source": "BBC Sport",
+      "category": "Sport",
+      "published": "2026-11-22T19:51:49+00:00"
     },
     {
       "title": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
@@ -63,24 +359,16 @@
       "url": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
       "summary": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email , free app or daily news podcast Bosses at 10 datacentre ",
       "source": "The Guardian",
-      "category": "World",
+      "category": "Technology",
       "published": "2026-11-22T19:00:34+00:00"
     },
     {
       "title": "What's next after no deal at COP31 climate talks?",
       "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
       "source": "BBC News",
       "category": "World",
       "published": "2026-11-22T18:57:24+00:00"
-    },
-    {
-      "title": "Russian ship hit in Benghazi by suspected Ukrainian drone attack, say Libyan officials",
-      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-      "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A suspected Ukrainian drone attack caused an explosion on a Russian warship docked at the naval base in the Libya",
-      "source": "The Guardian",
-      "category": "World",
-      "published": "2026-11-22T18:50:56+00:00"
     },
     {
       "title": "NHS savings drive leaves hospitals in England facing ‘unpalatable’ cuts",
@@ -99,28 +387,12 @@
       "published": "2026-11-22T18:42:34+00:00"
     },
     {
-      "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
-      "url": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
-      "summary": "Green shoots of recovery have lasted longer in a blast-furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino’s debut descended in",
-      "source": "The Guardian",
-      "category": "Sport",
-      "published": "2026-11-22T18:35:14+00:00"
-    },
-    {
       "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
       "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
       "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
       "source": "BBC News",
       "category": "World",
       "published": "2026-11-22T18:29:46+00:00"
-    },
-    {
-      "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
-      "summary": "How Liverpool and Manchester United's players rated following their Premier League match.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-22T18:28:51+00:00"
     },
     {
       "title": "What's next after no deal at COP31 climate summit?",
@@ -131,20 +403,12 @@
       "published": "2026-11-22T18:28:48+00:00"
     },
     {
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "title": "Long-lost Chevalier landscape found in charity shop",
+      "url": "https://www.bbc.co.uk/news/articles/c32l5z88z15jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cape Schanck, Victoria, is set to go under the hammer at Olympia Auctions in London on 9 December.",
       "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-22T18:17:59+00:00"
-    },
-    {
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-22T17:57:43+00:00"
+      "category": "UK",
+      "published": "2026-11-22T18:09:23+00:00"
     },
     {
       "title": "The red card that changed Liverpool-Man Utd: correct call?",
@@ -171,25 +435,9 @@
       "published": "2026-11-22T17:54:36+00:00"
     },
     {
-      "title": "Man Utd score dramatic late winner to extend record run",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm0rkzzyl2ego?at_medium=RSS&at_campaign=rss",
-      "summary": "Simi Awujo's last-gasp winner caps a remarkable Manchester United comeback at Birmingham, securing a dramatic victory and stretching the club's record unbeaten run to 14 matches.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-22T17:54:32+00:00"
-    },
-    {
-      "title": "Big wins as Celtic, Rangers, City & Hearts progress",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8zx91z9xe9yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Holders Celtic as well as Rangers, Glasgow City, Hearts, Montrose, Aberdeen and Falkirk progress with big wins in the Women's Scottish Cup.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-22T17:53:41+00:00"
-    },
-    {
       "title": "Russell Brand’s wife vows to abide by prison rules after video controversy",
       "url": "https://www.theguardian.com/news/2026/nov/22/russell-brand-wife-laura-gallacher-youtube-video",
-      "summary": "Laura Gallacher says in new video on YouTube she will continue Sunday Service series she started with Brand Laura Gallacher, Russell Brand’s wife, has promised to “absolutely honour” rules set by the prison where her con",
+      "summary": "Laura Brand says in new video on YouTube she will continue Sunday Service series she started with Brand Russell Brand’s wife, Laura, has promised to “absolutely honour” rules set by the prison where her convicted sex off",
       "source": "The Guardian",
       "category": "UK",
       "published": "2026-11-22T17:49:12+00:00"
@@ -219,14 +467,6 @@
       "published": "2026-11-22T17:18:26+00:00"
     },
     {
-      "title": "'Rolls-Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-22T17:00:01+00:00"
-    },
-    {
       "title": "Russell Brand's wife says she'll honour prison rules after message row",
       "url": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
       "summary": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
@@ -235,28 +475,12 @@
       "published": "2026-11-22T16:51:57+00:00"
     },
     {
-      "title": "Spurs 'a match for anyone' as European hopes boosted",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
-      "summary": "With the Women's Super League big four firmly established, and London City Lionesses spending their way into European contention, Champions League dreams could have seemed more fanciful than ever for Tottenham Hotspur. B",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-22T16:25:35+00:00"
-    },
-    {
       "title": "Cop31 climate talks break down as key deal rejected",
       "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
       "summary": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuels The EU, the UK and allies in the developing world rejected what they called an unacceptable deal o",
       "source": "The Guardian",
       "category": "World",
       "published": "2026-11-22T16:14:46+00:00"
-    },
-    {
-      "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-      "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-      "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May aw",
-      "source": "The Guardian",
-      "category": "UK",
-      "published": "2026-11-22T16:12:54+00:00"
     },
     {
       "title": "McBurnie’s added-time double snatches win for Hull to shock 10-man Brighton",
@@ -277,18 +501,10 @@
     {
       "title": "Steve Borthwick hits rewind button to inspire England’s flying starts",
       "url": "https://www.theguardian.com/sport/2026/nov/22/steve-borthwick-england-new-zealand-nations-championship-fast-start",
-      "summary": "The head coach said he has watched videos from Eddie Jones’ time in charge to help England start matches strongly Ellis Genge was so fired up by England’s powerful response to the haka on Saturday he stripped off his ant",
+      "summary": "The head coach said he has watched videos from Eddie Jones’ time in charge to help England begin matches strongly Ellis Genge was so fired up by England’s powerful response to the haka on Saturday he stripped off his ant",
       "source": "The Guardian",
       "category": "Sport",
       "published": "2026-11-22T16:00:31+00:00"
-    },
-    {
-      "title": "PSG's Doue to have surgery on ruptured ACL",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw0k6x0764ero?at_medium=RSS&at_campaign=rss",
-      "summary": "Paris St-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-22T15:50:05+00:00"
     },
     {
       "title": "Court bans China’s BYD from selling ‘Defender clone’ SUV in EU",
@@ -331,22 +547,6 @@
       "published": "2026-11-22T15:07:06+00:00"
     },
     {
-      "title": "The footballer-turned-BookTuber who made an obscure Tolstoy novella a belated bestseller",
-      "url": "https://www.theguardian.com/world/2026/nov/22/the-football-superstar-turned-booktuber-who-made-an-obscure-tolstoy-novella-a-belated-bestseller",
-      "summary": "Once named the best player in Brazil, Gustavo Scarpa’s literature obsession has inspired thousands to become bookworms Julián Scatolaro noticed something odd was occurring when several people came into his bookshop over ",
-      "source": "The Guardian",
-      "category": "Sport",
-      "published": "2026-11-22T15:00:29+00:00"
-    },
-    {
-      "title": "Manchester City’s WSL title bid hit by Spurs after Vinberg and Naz’s late double",
-      "url": "https://www.theguardian.com/football/2026/nov/22/manchester-city-tottenham-wsl-match-report",
-      "summary": "This most unpredictable and evenly contested Women’s Super League campaign took another unexpected twist as Manchester City missed the chance to return to the top of the table as they suffered a second successive defeat,",
-      "source": "The Guardian",
-      "category": "Sport",
-      "published": "2026-11-22T14:59:23+00:00"
-    },
-    {
       "title": "Marquez wins record-equalling eighth MotoGP title",
       "url": "https://www.bbc.co.uk/sport/motorsport/articles/c64gnrdzq8zzo?at_medium=RSS&at_campaign=rss",
       "summary": "Marc Marquez secures a record-equalling eighth MotoGP championship and moves level with Giacomo Agostini.",
@@ -369,22 +569,6 @@
       "source": "BBC News",
       "category": "World",
       "published": "2026-11-22T14:05:20+00:00"
-    },
-    {
-      "title": "Potty-mouthed MPs ranked as Australian parliament sets new swearing record",
-      "url": "https://www.theguardian.com/news/2026/nov/23/potty-mouthed-mps-ranked-as-australian-parliament-sets-new-swearing-record",
-      "summary": "One serial swearing offender, Jacqui Lambie, says it wouldn’t be an Australian parliament ‘without a few swear words thrown in’ Want to get more charts in your inbox every fortnight? Sign up for The Crunch here When Libe",
-      "source": "The Guardian",
-      "category": "World",
-      "published": "2026-11-22T14:00:32+00:00"
-    },
-    {
-      "title": "Australia urged to wean off imported fossil fuels amid global supply shocks",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/23/australia-urged-to-wean-off-imported-fossil-fuels-amid-global-supply-shocks",
-      "summary": "Grattan Institute report calls on government to ‘seize’ opportunity to cap diesel tax credits, introduce EV subsidies for less wealthy’ and build ‘clean’ refineries Get our daily political email , free app or daily news ",
-      "source": "The Guardian",
-      "category": "World",
-      "published": "2026-11-22T14:00:29+00:00"
     },
     {
       "title": "Tyson Fury looks back: ‘Once the Anthony Joshua fight is over, what will I do next? Walking the dog ain’t gonna cut it’",
@@ -483,14 +667,6 @@
       "published": "2026-11-22T12:12:07+00:00"
     },
     {
-      "title": "Watford seek sixth manager in 18 months after sacking Dionisi",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cyvz6r4g1jqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Watford sack head coach Alessio Dionisi after 18 games in charge.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-22T12:00:45+00:00"
-    },
-    {
       "title": "As the real world falls apart, Grand Theft Auto looks more and more appealing | Dave Schilling",
       "url": "https://www.theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming",
       "summary": "All these tech outages are a reminder we’re at the mercy of powers beyond our comprehension. At least in GTA we have control This week marked the release of the highly anticipated video game Grand Theft Auto VI. Millions",
@@ -571,14 +747,6 @@
       "published": "2026-11-22T11:24:22+00:00"
     },
     {
-      "title": "Did Springboks win change the narrative for Ireland?",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c64gnry013mko?at_medium=RSS&at_campaign=rss",
-      "summary": "After a 20-17 win on Saturday, did Ireland's victory over South Africa change the narrative for Andy Farrell's side?",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-22T11:09:29+00:00"
-    },
-    {
       "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
       "summary": "Max Verstappen was the star figure in a Las Vegas Grand Prix that was unlike any F1 race anyone younger than about 70 had ever seen.",
@@ -601,14 +769,6 @@
       "source": "The Guardian",
       "category": "World",
       "published": "2026-11-22T11:00:24+00:00"
-    },
-    {
-      "title": "Scotland must let promising McConnell loose against Pumas",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmgqxvzyq959o?at_medium=RSS&at_campaign=rss",
-      "summary": "Scotland head into their Nations Championship finale against Argentina on a high and should unleash Liam McConnell on the Pumas after his hat-trick against Japan, writes Tom English.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-22T10:59:15+00:00"
     },
     {
       "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
@@ -635,28 +795,12 @@
       "published": "2026-11-22T10:00:24+00:00"
     },
     {
-      "title": "Injured Jacks out of T20 Australia tour",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c8p3v1p45360o?at_medium=RSS&at_campaign=rss",
-      "summary": "England all-rounder Will Jacks is ruled out of the rest of the tour of Australia with a broken hand.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-22T10:00:04+00:00"
-    },
-    {
       "title": "My son donated his body to science and became a 'silent teacher'",
       "url": "https://www.bbc.co.uk/news/articles/cmj6l75zwzkjo?at_medium=RSS&at_campaign=rss",
       "summary": "Barbara Scott's son has already donated his body to Edinburgh University's medical school to help students to learn about anatomy.",
       "source": "BBC News",
       "category": "UK",
       "published": "2026-11-22T09:38:08+00:00"
-    },
-    {
-      "title": "Verstappen's superb racecraft & Russell's costly mistake - driver ratings",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c83vg92x21vzo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Las Vegas Grand Prix weekend.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-22T09:35:05+00:00"
     },
     {
       "title": "Will the Scotland-England border landmark star ever shine?",
@@ -699,14 +843,6 @@
       "published": "2026-11-22T08:59:41+00:00"
     },
     {
-      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-      "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The couple have been together for four years and were engaged in 2025.",
-      "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-22T08:46:28+00:00"
-    },
-    {
       "title": "Calls for Marilyn Manson performance to be pulled",
       "url": "https://www.bbc.co.uk/news/articles/cmn4kz7lj3jvo?at_medium=RSS&at_campaign=rss",
       "summary": "Marilyn Manson is due to support Slipknot at Wembley Stadium in July, ahead of a trial he faces.",
@@ -723,27 +859,11 @@
       "published": "2026-11-22T08:00:22+00:00"
     },
     {
-      "title": "Robins ‘aims for the stars’ as Stoke dream of Premier League return",
-      "url": "https://www.theguardian.com/football/2026/nov/22/mark-robins-stoke-birmingham-championship-premier-league-promotion",
-      "summary": "The Championship’s form side climbed to second after holding on resiliently with 10 men to knock Birmingham off the summit There have been false dawns before. Plenty of them. This time last year, with Christmas on the ne",
-      "source": "The Guardian",
-      "category": "Sport",
-      "published": "2026-11-22T08:00:22+00:00"
-    },
-    {
       "title": "Revealed: profiles of UK experts on gambling harm being hijacked to push illegal online casinos",
       "url": "https://www.theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos",
       "summary": "Findings highlight unscrupulous tactics used by operators in multibillion pound illicit market and challenges facing authorities Prof Heather Wardle has dedicated 20 years to researching the harm caused by gambling. So t",
       "source": "The Guardian",
       "category": "Business",
-      "published": "2026-11-22T08:00:21+00:00"
-    },
-    {
-      "title": "César Azpilicueta: ‘At Chelsea a draw was a catastrophe – if you can’t perform, you’re out’",
-      "url": "https://www.theguardian.com/football/2026/nov/22/cesar-azpilicueta-at-chelsea-a-draw-was-a-catastrophe-if-you-cant-perform-youre-out",
-      "summary": "Former defender reflects on his record-breaking longevity, kicking Eden Hazard in training, and life after retirement César Azpilicueta looks well. César Azpilicueta always looks well – “ah, Captain Handsome,” one Chelse",
-      "source": "The Guardian",
-      "category": "Sport",
       "published": "2026-11-22T08:00:21+00:00"
     },
     {
@@ -785,14 +905,6 @@
       "source": "BBC News",
       "category": "UK",
       "published": "2026-11-22T07:14:14+00:00"
-    },
-    {
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-      "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-22T07:12:41+00:00"
     },
     {
       "title": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
@@ -875,28 +987,12 @@
       "published": "2026-11-22T06:00:18+00:00"
     },
     {
-      "title": "Police say man whose body lay undiscovered in Sydney bushland for 12 days was killed in suspected hit-and-run",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
-      "summary": "Joshua Howard, 31, is believed to have been struck by a car and thrown over the guardrail as he was walking home from a party in Rouse Hill Get our breaking news email , free app or daily news podcast The twin brother of",
-      "source": "The Guardian",
-      "category": "World",
-      "published": "2026-11-22T05:21:01+00:00"
-    },
-    {
       "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
       "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
       "summary": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
       "source": "BBC News",
       "category": "UK",
       "published": "2026-11-22T04:39:13+00:00"
-    },
-    {
-      "title": "Man found dead on Flinders Island believed to have been shot by officer, police say",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
-      "summary": "The sergeant, who was shot, fired his weapon a number of times after alleged ‘targeted’ attack outside island’s police station Get our breaking news email , free app or daily news podcast A police officer who was shot ou",
-      "source": "The Guardian",
-      "category": "World",
-      "published": "2026-11-22T02:44:01+00:00"
     },
     {
       "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
@@ -979,22 +1075,6 @@
       "published": "2026-11-21T21:39:22+00:00"
     },
     {
-      "title": "Arsenal go six points clear after lively draw at Newcastle",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-21T19:59:35+00:00"
-    },
-    {
-      "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge. Daniel Farke's side move up to sixth in the Premier League.",
-      "source": "BBC Sport",
-      "category": "Sport",
-      "published": "2026-11-21T19:59:13+00:00"
-    },
-    {
       "title": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
       "url": "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels",
       "summary": "New draft text released at Cop31 summit after countries fail to agree on electrification and finance for developing world Climate talks reached a standstill on Saturday night in Turkey as some countries mulled whether to",
@@ -1031,7 +1111,7 @@
       "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
       "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autono",
       "source": "The Guardian",
-      "category": "World",
+      "category": "Technology",
       "published": "2026-11-21T16:36:11+00:00"
     },
     {
@@ -1361,86 +1441,6 @@
       "source": "The Guardian",
       "category": "World",
       "published": "2026-11-20T21:38:17+00:00"
-    },
-    {
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-      "source": "BBC News",
-      "category": "World",
-      "published": "2026-11-20T20:54:12+00:00"
-    },
-    {
-      "title": "Gérard Depardieu and French author investigated over sexual allegations",
-      "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-      "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-      "source": "BBC News",
-      "category": "Entertainment",
-      "published": "2026-11-20T19:45:20+00:00"
-    },
-    {
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-      "summary": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
-      "source": "BBC News",
-      "category": "Technology",
-      "published": "2026-11-20T19:03:56+00:00"
-    },
-    {
-      "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
-      "url": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
-      "summary": "The 30-year-old former England star combines Twitch streaming with working to return to the top as a player Consider the training regime Dele Alli has followed since he left Como 18 months ago and it becomes clear why he",
-      "source": "The Guardian",
-      "category": "Sport",
-      "published": "2026-11-20T19:00:37+00:00"
-    },
-    {
-      "title": "Misty-eyed Burnham gambles on closer ties with EU as he throws down gauntlet to Tories and Reform",
-      "url": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
-      "summary": "PM challenges rivals to rebuff plan he says could add 0.5% annual growth to economy and offer young people hope Several sentences into a slightly convoluted answer about where UK-EU relations might go next, Andy Burnham ",
-      "source": "The Guardian",
-      "category": "UK",
-      "published": "2026-11-20T18:22:50+00:00"
-    },
-    {
-      "title": "What exactly is in the deal between the UK and the EU?",
-      "url": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
-      "summary": "The two sides have come to agreements on food and drink, emissions trading and the youth exchange scheme Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10 After months of on-off negotiations",
-      "source": "The Guardian",
-      "category": "UK",
-      "published": "2026-11-20T18:19:53+00:00"
-    },
-    {
-      "title": "The Guardian view on Britain and Europe: Burnham’s reset cannot be the final destination | Editorial",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/20/the-guardian-view-on-britain-and-europe-burnhams-reset-cannot-be-the-final-destination",
-      "summary": "It’s welcome news that Labour has reopened doors that the Conservatives slammed shut. But the fundamental dilemma over European integration remains Andy Burnham on Friday announced a long-awaited deal to ease some of Bre",
-      "source": "The Guardian",
-      "category": "Business",
-      "published": "2026-11-20T18:13:24+00:00"
-    },
-    {
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-      "source": "BBC News",
-      "category": "Business",
-      "published": "2026-11-20T17:49:48+00:00"
-    },
-    {
-      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-      "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
-      "source": "BBC News",
-      "category": "Business",
-      "published": "2026-11-20T16:41:52+00:00"
-    },
-    {
-      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-      "url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
-      "source": "BBC News",
-      "category": "Entertainment",
-      "published": "2026-11-20T15:55:02+00:00"
     }
   ]
 }
